@@ -1,0 +1,1 @@
+# auto_wb_content_capture
